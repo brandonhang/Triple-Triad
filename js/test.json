@@ -1,0 +1,24 @@
+{
+	"name": "Final Fantasy XLVIII",
+	"set": [
+		{
+			"level": "Level 1",
+			"cards": [
+				"Bahamut",
+				"Anima",
+				"Odin",
+				"Ifrit",
+				"Shiva"
+			]
+		},
+		{
+			"level": "Level 2",
+			"cards": [
+				"Lightning",
+				"Locke",
+				"Squall",
+				"Auron"
+			]
+		}
+	]
+}
